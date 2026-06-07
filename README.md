@@ -321,7 +321,7 @@
         <div class="container hero-grid">
             <!-- Kolom Foto Profil -->
             <div class="hero-photo">
-                <img src="FOTO RIZQY IANATUS 1.jpeg" alt="Foto Mawar" class="profile-img" onerror="this.src='https://ui-avatars.com/api/?background=1e7e8c&color=fff&name=Mawar'">
+                <img src="[FOTO RIZQY IANATUS 1.jpeg](https://github.com/rizqyianatus/portofolio-rizqy-ianatus-saida./blob/main/FOTO%20RIZQY%20IANATUS%201.jpeg)" alt="Foto Mawar" class="profile-img" onerror="this.src='https://ui-avatars.com/api/?background=1e7e8c&color=fff&name=Mawar'">
                 <p style="font-size: 0.7rem; margin-top: 0.6rem; color: #5f7f8c;">Foto Profil</p>
             </div>
             <!-- Kolom informasi -->
